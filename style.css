@@ -2242,7 +2242,7 @@ a:hover, a:focus, a.active {
     clear: both; }
     .area-about .alignleft .shadow {
       border-radius: 1px;
-      box-shadow: 0 0 24px rgba(0, 0, 0, 0.29);
+      /*box-shadow: 0 0 24px rgba(0, 0, 0, 0.29);*/
       float: right;
       position: relative;
       z-index: 1; }
